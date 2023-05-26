@@ -1,7 +1,6 @@
 //Programmers: Cameron Loukes, Partner: Alex Thorton
 //Date: 5.26.2023
-//Program: Compitition
-
+//Program: Competition
 async function startProgram() {
 	// Write code here
 }
