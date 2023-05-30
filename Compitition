@@ -1,10 +1,9 @@
-///Programmers: Cameron Loukes
-//Partner: Alex Thorton
+//Programmers: Alex Thornton 
+//Partner:Cam Loukes
 //Date:5-26-23
 //Program:Competition
 
 async function startProgram() {
 	await scrollMatrixText('Start', { r: 66, g: 56, b: 255 }, 10, true)
 }
-
 
