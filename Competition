@@ -2,9 +2,11 @@
 //Partner: Alex Thorton
 //Date:5-26-23
 //Program:Competition
+//Sphero: SB-2FAE
 
 async function startProgram() {
 	await scrollMatrixText('Start', { r: 66, g: 56, b: 255 }, 10, true)
+	await roll(360, 90, 1.6)
 }
 
 
