@@ -21,6 +21,11 @@ async function startProgram() {
 	await delay(2)
 	await roll(35, 90, 0.6)
 	await Sound.Animal.Chicken.play() 
+	await roll(130, 90, 0.6)
+	await delay(2)
+	await roll(180, 90, 0.5)
+	await delay(2)
+	await setMainLed({ r: 0, g: 255, b: 0 })
 }
 
 
